@@ -1,10 +1,10 @@
-# Niva
+# Nivara
 
-In today's digital era, misinformation poses a significant threat, influencing decisions and shaping global opinions with often inaccurate or deceptive content. **Niva** is a solution designed to combat this issue by creating a reliable platform that leverages the combined power of **academic expertise** and **AI-driven models** to provide verified, fact-checked information.
+In today's digital era, misinformation poses a significant threat, influencing decisions and shaping global opinions with often inaccurate or deceptive content. **Nivara** is a solution designed to combat this issue by creating a reliable platform that leverages the combined power of **academic expertise** and **AI-driven models** to provide verified, fact-checked information.
 
 ## Table of Contents
 
-- [About Niva](#about-niva)
+- [About Nivara](#about-Nivara)
 - [Key Features](#key-features)
   - [1. Expert Verification](#1-expert-verification)
   - [2. AI-Powered Analysis](#2-ai-powered-analysis)
@@ -15,22 +15,22 @@ In today's digital era, misinformation poses a significant threat, influencing d
 - [Contributing](#contributing)
 - [License](#license)
 
-## About Niva
+## About Nivara
 
-**Niva** is a misinformation detection and verification system. It offers a platform where **academic scholars** verify the accuracy of articles and other media. By utilizing **Natural Language Processing (NLP)** and **Artificial Intelligence (AI)**, the app also automates the initial analysis of content, flagging it as potentially truthful or misleading. This multi-layered approach aims to ensure the reliability of information consumed by users.
+**Nivara** is a misinformation detection and verification system. It offers a platform where **academic scholars** verify the accuracy of articles and other media. By utilizing **Natural Language Processing (NLP)** and **Artificial Intelligence (AI)**, the app also automates the initial analysis of content, flagging it as potentially truthful or misleading. This multi-layered approach aims to ensure the reliability of information consumed by users.
 
 ## Key Features
 
 ### 1. Expert Verification
 
-Niva integrates **subject-matter expertise** as a core part of its fact-checking process. **Qualified scholars** review articles based on their expertise, assessing the truthfulness of the content.
+Nivara integrates **subject-matter expertise** as a core part of its fact-checking process. **Qualified scholars** review articles based on their expertise, assessing the truthfulness of the content.
 
 - Scholars are matched to articles based on their domain knowledge (e.g., medical articles are reviewed by doctors or medical researchers).
 - Verified experts provide a confidence score after reviewing an article, which is displayed alongside the content.
   
 ### 2. AI-Powered Analysis
 
-Niva employs state-of-the-art **NLP models** to assist with article evaluation. These models perform an initial pass to flag questionable content:
+Nivara employs state-of-the-art **NLP models** to assist with article evaluation. These models perform an initial pass to flag questionable content:
 
 - NLP algorithms assess linguistic cues and cross-reference available data to detect bias, inconsistencies, or misinformation.
 - AI models assign a probability score that indicates whether the content is likely to be true or false, which is then reviewed by scholars for a more detailed examination.
@@ -44,7 +44,7 @@ Scholars are incentivized to contribute by being rewarded for accurate and thoro
 
 ### 4. User-Friendly Interface
 
-Niva provides an intuitive, clean interface where users can:
+Nivara provides an intuitive, clean interface where users can:
 
 - Instantly see the **credibility score** of articles.
 - Access detailed **in-depth analysis** (via a premium subscription).
@@ -52,7 +52,7 @@ Niva provides an intuitive, clean interface where users can:
 
 ### 5. Scalability
 
-Niva is built for future expansion, allowing for additional media types to be verified:
+Nivara is built for future expansion, allowing for additional media types to be verified:
 
 - **Images and Videos:** Upcoming features will enable image and video fact-checking, addressing visual misinformation and deepfakes.
 - The system is designed to handle an increasing number of users, reviews, and content types without sacrificing performance.
