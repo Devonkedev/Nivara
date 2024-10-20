@@ -2,7 +2,7 @@
 
 In today’s digital age, misinformation has become a pervasive challenge, influencing decisions and perceptions on a global scale. Our solution tackles this problem head-on by developing a system that leverages the expertise of academic scholars to verify the accuracy of articles and content. By doing this, we provide users with a reliable platform that detects and mitigates fake news efficiently and provides users with reliable, fact-checked content
 
-##Key Features:
+## Key Features:
 
 Expert Verification: Articles are reviewed by qualified scholars whose expertise aligns with the subject matter. Their assessments help determine whether the information is factual or misleading.
 
