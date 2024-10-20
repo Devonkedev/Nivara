@@ -6,7 +6,7 @@ In today’s digital age, misinformation has become a pervasive challenge, influ
 
 Expert Verification: Articles are reviewed by qualified scholars whose expertise aligns with the subject matter. Their assessments help determine whether the information is factual or misleading.
 
-AI-Powered Analysis: We employ logistic regression models that consider a wide range of factors, including reviewer experience, number of positive/negative reviews, and prior contributions, to calculate the likelihood of an article being true or false.
+AI-Powered Analysis: We employ NLP models to calculate the likelihood of an article being true or false.
 
 Incentivized Participation: Scholars are rewarded based on their contributions, accuracy of reviews, and their track record, encouraging more thorough and frequent evaluations.
 
