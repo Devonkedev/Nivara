@@ -124,5 +124,5 @@ STATIC_DIRS = [
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-LOGIN_REDIRECT_URL = "base:home"
+LOGIN_REDIRECT_URL = "base:article_finder"
 LOGOUT_REDIRECT_URL = "base:login"
