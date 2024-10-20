@@ -1,0 +1,9 @@
+<h1>Evaluate Article: {{ title }}</h1>
+
+<form method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Submit Evaluation</button>
+</form>
+
+<p>Article URL: <a href="{{ url }}" target="_blank">{{ url }}</a></p>
