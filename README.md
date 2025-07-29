@@ -127,7 +127,3 @@ Contributions are welcome! If you'd like to contribute to the project:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This version of the README provides an in-depth overview of the app, describing both its functionality and technical underpinnings. It adheres to standard GitHub formatting and includes installation instructions and contribution guidelines.
